@@ -1,4 +1,4 @@
-# Roblox-Client-Crasher
+# Roblox-Client-Crasher (Open-Source)
 USE THIS SCRIPT AS A CLIENT CRASHER, FRIEND. DO NOT USE THIS CODE FOR FRAUDULENT CASES. THIS CODE HAS NO RESPONSIBILITY WHATSOEVER THAT MAY HAPPEN TO YOUR PC, PHONE AND OTHER DEVICES. 
 1. What is this? ❓
 This is a script that will help scare the victim by showing his real ip, address, city, time zone and country. (This script only shows them, it does not send them anywhere).
